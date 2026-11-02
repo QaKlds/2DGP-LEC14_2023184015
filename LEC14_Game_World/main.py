@@ -3,6 +3,7 @@ from pico2d import *
 import game_world
 from boy import Boy
 from grass import Grass
+from grass2 import Grass2
 
 
 def handle_events():
